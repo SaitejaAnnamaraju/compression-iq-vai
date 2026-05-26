@@ -28,13 +28,3 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
-
-# Project Files
-README.txt
-backend/
-frontend/
-package-lock.json
-setup.bat
-setup.sh
-start.bat
-start.sh
